@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The names of several persons trading in, and depending upon the manufacturing of serges within the city of Exon, and parts adjacent, lately removed from thence into the Kingdom of Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27129</idno><idno type="EEBO-CITATION">99830003</idno>
+  <idno type="VID">206973</idno>
+  <idno type="EEBO-PROQUEST">2240865939</idno>
+  
+            <idno type="STC">Wing N127A</idno>
+            <idno type="PROQUEST">99830003</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830003e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206973)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1872:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The names of several persons trading in, and depending upon the manufacturing of serges within the city of Exon, and parts adjacent, lately removed from thence into the Kingdom of Ireland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>At foot: "An account of persons gone from Tiverton for Ireland, to carry on the woolen manufacture".</note>
+                  <note>Includes docket title on verso: Exeter and Tiverton Lists, &amp;c, printed at a 90⁰ angle to the rest of the text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Exeter (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:206973:1"/>
+            <head>The <hi>NAMES</hi> of several Persons Trading in, and Depending upon the Manufacturing of <hi>Serges,</hi> within the City of <hi>Exon,</hi> and parts adjacent, lately removed from thence into the Kingdom of <hi>Ireland.</hi>
+            </head>
+            <list>
+               <label>THom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Allen and Family</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>William Aldom</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Samuel Beadon</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Butcher and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>William Barnes</label>
+               <item>
+                  <hi>Pressman</hi>
+               </item>
+               <label>Obadiah Brown</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Gilbert Bryant</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Bendell</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Bidwell</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Robert Bidwell</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Chappel</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Kamp</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Richard Cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bb</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Ralph Clark</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Daniel Cowly</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Marshall Cowly</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>William Cross</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Robert Oa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Crocker</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Tho. Caapman and F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mily</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Colrid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</label>
+               <item>
+                  <hi>Rackmaker</hi>
+               </item>
+               <label>Samuel C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rk</label>
+               <item>
+                  <hi>Fuller</hi>
+               </item>
+               <label>Robert D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Henry D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Abel Down</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Thom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Down</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Drewstone</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>James Dowly</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Samuel Do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Andrew Dodrige and Sons</label>
+               <item>
+                  <hi>Harness-makers</hi>
+               </item>
+               <label>Moor Evans</label>
+               <item>
+                  <hi>Dyer</hi>
+               </item>
+               <label>Thomas Elliot</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Willi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m English and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Norton</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Richard Hayward, <hi>jun.</hi>
+               </label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>William Aldrege and Family</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Edward Weeks</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l England</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Samuel Ellis</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Robert Force</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>James Foot</label>
+               <item>
+                  <hi>Felmonger</hi>
+               </item>
+               <label>Henry Gard</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Hercules Gibbs and Family</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Gentry</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Thom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Gomery</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Gomery</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Samuel How</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Henry How</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Hayne</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Richard Hayward and Family</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Robert Harnesse</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Thom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Hayman</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Nicholas Hitchcock and Family</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Gabriel Hayward</label>
+               <item>
+                  <hi>Fuller</hi>
+               </item>
+               <label>Michael Johnson</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Hezekiah Johnson</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Joseph Jacob</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Benjamin Isacke</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Peter Langdon</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Samuel Liddon</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Bartholomew Libbeton</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Charles Mayow</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Nathanael Mayow</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Joseph Mayow</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Samuel Meriot</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Moxham and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Richard M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoone</label>
+               <item>
+                  <hi>Comb-maker</hi>
+               </item>
+               <label>John Osmond</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>James Hayward</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Thom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Lanine</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Edward S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acy</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Ewins</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>William Knight</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Humphry Horseman</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Aaron Horseman</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Pinsent</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Hugh Langham</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Reed</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Rogers</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Richard Swine</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Salter</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Swine</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Ralph Stoddle</label>
+               <item>
+                  <hi>Fuller</hi>
+               </item>
+               <label>John Taby</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Edward Tracy</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Thomas Townsend</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Obadiah T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ender</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Walter Thomas</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Peter Teage</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>William Toole and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Thomas Treslake</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Thomas</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Tipper</label>
+               <item>
+                  <hi>Rack-maker</hi>
+               </item>
+               <label>Richard Painer</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Robert Vos and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Vorce</label>
+               <item>
+                  <hi>Fuller</hi>
+               </item>
+               <label>Barnard Wills and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>William Wills and Family</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>William Weymouth</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Thomas West</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Zachary Wotton</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>William Yeo</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Christopher Hayward</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Josias Sparke</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Henry Yeo</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>William Leades</label>
+               <item>
+                  <hi>Rack-maker</hi>
+               </item>
+               <label>Thomas Stretchland</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>Greenvil Yeo</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>John Dingo</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Stephans</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Thomrs Berry</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Ames</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Rogers and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Roger Woolman</label>
+               <item> </item>
+               <label>Thomas Perryman</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes Cornish</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Philip Cornish</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>James Walker</label>
+               <item>
+                  <hi>Woolcomber</hi>
+               </item>
+               <label>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mills</label>
+               <item>
+                  <hi>Comb-maker.</hi>
+               </item>
+            </list>
+            <p>In all 120.</p>
+            <closer>
+               <hi>Certifyed by us, the Master, Wardens, and Assistants of the Incorporation of Weavers, Fullers, and Sheermen, within the City of</hi> Exon, <date>
+                  <hi>this</hi> 12th. <hi>of</hi> March, 1697/8.</date>
+            </closer>
+         </div>
+         <div type="part">
+            <head>An Account of Persons gone from <hi>Tiverton</hi> for <hi>Ireland,</hi> to carry on the Woolen Manufacture.</head>
+            <list>
+               <label>JOhn Facy and Wife</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Burt, Wife and Children</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Nathan Crudge and Wife</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Nathan Crudge</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>Thomas Davye</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>Peter Moxy, Wife and Family</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>Richard Hammet, Wife and Family</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>John Norman and Wife</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>John Tucker</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>Edward Chaning and Wife</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>Thomas Keen</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>Caleb Waerd</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>Mary Day</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>John Bicknel</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>
+                  <hi>Mr.</hi> Robert Coomb</label>
+               <item> </item>
+               <label>
+                  <hi>Mr.</hi> Philip Coomb</label>
+               <item> </item>
+               <label>Henry Hitchcock</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>John Gibs, Wife and Family</label>
+               <item>
+                  <hi>Weaver</hi>
+               </item>
+               <label>Richard <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilcot <hi>sen.</hi> and Wife</label>
+               <item>
+                  <hi>Comber</hi>
+               </item>
+               <label>Richard Chilcot, <hi>jun.</hi>
+               </label>
+               <item>
+                  <hi>Ditto</hi>
+               </item>
+            </list>
+            <closer>
+               <signed>As is Attested by Ʋs, <hi>William Morgan, John Cannington.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:206973:2"/>
+            <pb facs="tcp:206973:2"/>
+            <p>Exeter <hi>and</hi> Tiverton LIST, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
